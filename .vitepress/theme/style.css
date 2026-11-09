@@ -129,3 +129,16 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+
+:root {
+  --vp-sidebar-bg-color: #f5f5f5;
+
+  --vp-c-brand-1: #f28751;
+  --vp-button-brand-hover-bg: #f28751;
+  --vp-button-brand-bg: #f28751;
+
+  --vp-c-text-1: #333333;
+  --vp-c-text-2: #666666;
+
+  --vp-c-bg-soft: #f5f5f5;
+}
